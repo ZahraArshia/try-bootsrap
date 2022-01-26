@@ -1,0 +1,45 @@
+#login {
+  margin: 5%;
+}
+
+#sidebar {
+  padding-top: 3%;
+  border-left: solid rgb(2, 2, 73);
+}
+
+nav {
+  background-color: rgb(197, 220, 228);
+  border: solid rgb(2, 2, 73);
+  height: 80px;
+  font-size: 20px;
+}
+
+nav a {
+  color: white;
+}
+
+.card {
+  width: 25rem;
+  margin: 3%;
+}
+
+#scroll {
+  margin: 5%;
+}
+
+img {
+  margin-top: 12px;
+}
+
+#contact-form {
+  margin: 5%;
+  max-width: 900px;
+}
+
+#about {
+  margin: 5%;
+}
+
+#accordionExample {
+  margin-top: 20%;
+}
